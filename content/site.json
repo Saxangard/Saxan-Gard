@@ -1,0 +1,13 @@
+{
+  "email": "",
+  "location": "Värmland, Zweden (voorbeeld)",
+  "priceLow": "Op aanvraag",
+  "priceHigh": "Op aanvraag",
+  "priceLong": "Op aanvraag",
+  "heroImage": "/assets/hero.svg",
+  "apartment1Image": "/assets/apartment-1.svg",
+  "apartment2Image": "/assets/apartment-2.svg",
+  "areaImage1": "/assets/nature-1.svg",
+  "areaImage2": "/assets/nature-2.svg",
+  "areaImage3": "/assets/nature-3.svg"
+}
