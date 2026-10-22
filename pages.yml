@@ -1,0 +1,165 @@
+media:
+  input: assets
+  output: /assets
+content:
+  - name: instellingen
+    label: Algemene instellingen
+    type: file
+    path: content/site.json
+    fields:
+      - name: email
+        label: E-mailadres
+        type: string
+      - name: location
+        label: Locatie
+        type: string
+      - name: priceLow
+        label: Prijs laagseizoen
+        type: string
+      - name: priceHigh
+        label: Prijs hoogseizoen
+        type: string
+      - name: priceLong
+        label: Prijs lang verblijf
+        type: string
+      - name: heroImage
+        label: Grote foto bovenaan
+        type: image
+      - name: apartment1Image
+        label: Foto appartement 1
+        type: image
+      - name: apartment2Image
+        label: Foto appartement 2
+        type: image
+      - name: areaImage1
+        label: Omgeving foto 1
+        type: image
+      - name: areaImage2
+        label: Omgeving foto 2
+        type: image
+      - name: areaImage3
+        label: Omgeving foto 3
+        type: image
+  - name: nederlands
+    label: Nederlands
+    type: file
+    path: content/nederlands.json
+    fields:
+      - name: heroTitle
+        label: Grote titel
+        type: string
+      - name: heroText
+        label: Introductie
+        type: string
+      - name: aptIntro
+        label: Intro appartementen
+        type: string
+      - name: apt1
+        label: Naam appartement 1
+        type: string
+      - name: apt1spec
+        label: Details appartement 1
+        type: string
+      - name: apt1desc
+        label: Beschrijving appartement 1
+        type: string
+      - name: apt2
+        label: Naam appartement 2
+        type: string
+      - name: apt2spec
+        label: Details appartement 2
+        type: string
+      - name: apt2desc
+        label: Beschrijving appartement 2
+        type: string
+      - name: pricesText
+        label: Prijzen toelichting
+        type: string
+      - name: areaText
+        label: Omgeving tekst
+        type: string
+      - name: contactText
+        label: Contact tekst
+        type: string
+  - name: zweeds
+    label: Zweeds
+    type: file
+    path: content/zweeds.json
+    fields:
+      - name: heroTitle
+        label: Grote titel
+        type: string
+      - name: heroText
+        label: Introductie
+        type: string
+      - name: aptIntro
+        label: Intro appartementen
+        type: string
+      - name: apt1
+        label: Naam appartement 1
+        type: string
+      - name: apt1spec
+        label: Details appartement 1
+        type: string
+      - name: apt1desc
+        label: Beschrijving appartement 1
+        type: string
+      - name: apt2
+        label: Naam appartement 2
+        type: string
+      - name: apt2spec
+        label: Details appartement 2
+        type: string
+      - name: apt2desc
+        label: Beschrijving appartement 2
+        type: string
+      - name: pricesText
+        label: Prijzen toelichting
+        type: string
+      - name: areaText
+        label: Omgeving tekst
+        type: string
+      - name: contactText
+        label: Contact tekst
+        type: string
+  - name: engels
+    label: Engels
+    type: file
+    path: content/engels.json
+    fields:
+      - name: heroTitle
+        label: Grote titel
+        type: string
+      - name: heroText
+        label: Introductie
+        type: string
+      - name: aptIntro
+        label: Intro appartementen
+        type: string
+      - name: apt1
+        label: Naam appartement 1
+        type: string
+      - name: apt1spec
+        label: Details appartement 1
+        type: string
+      - name: apt1desc
+        label: Beschrijving appartement 1
+        type: string
+      - name: apt2
+        label: Naam appartement 2
+        type: string
+      - name: apt2spec
+        label: Details appartement 2
+        type: string
+      - name: apt2desc
+        label: Beschrijving appartement 2
+        type: string
+      - name: pricesText
+        label: Prijzen toelichting
+        type: string
+      - name: areaText
+        label: Omgeving tekst
+        type: string
+      - name: contactText
+        label: Contact tekst
+        type: string
